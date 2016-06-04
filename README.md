@@ -1,3 +1,3 @@
 # angularjsTpl
 
-http://www.imooc.com/learn/156(imooc)
+(imooc)www.imooc.com/learn/156
